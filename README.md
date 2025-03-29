@@ -1,0 +1,1 @@
+Through this project, I intend to create simple HTML webpages for some recipes. While doing so, I will leverage the HTML skills I have picked up while going through The Odin Project.
